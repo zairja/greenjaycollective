@@ -189,7 +189,7 @@ a:hover {
 
 a.btn {
   text-decoration: none;
-  background-color: rgb(45, 151, 45);
+  background: rgba(51, 170, 51);
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: white;
